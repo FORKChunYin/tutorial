@@ -1,6 +1,0 @@
-Even a monkey can understand
-Add something
-
-commit RECORD THE STATUS OF INDEX
-pull "RETAIN THE CONTENT OF REMOTE REPOSITORY"
-
